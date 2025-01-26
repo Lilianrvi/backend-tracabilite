@@ -1,0 +1,8391 @@
+{
+  "USERS": {
+    "BUT3MLT": "BUT3MLT",
+    "l": "l",
+    "A": "A",
+    "a": "a",
+    "aa": "aa"
+  },
+  "SHIPMENTS": {
+    "35203995": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:17:26 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:17:37 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:17:41 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:17:47 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:18:13 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:18:14 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:18:16 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 1,
+      "destination": "F",
+      "creation_timestamp": 1737807446.7909095,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        4,
+        6,
+        26,
+        1,
+        2,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "85459939": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:17:51 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:17:53 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:17:56 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:18:09 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:18:33 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:18:34 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:18:43 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807471.0937698,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        3,
+        13,
+        24,
+        1,
+        9,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "88742397": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:17:52 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:17:56 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:18:02 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:18:03 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:18:27 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:18:29 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:18:44 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807472.9592104,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        6,
+        1,
+        24,
+        2,
+        15,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "77444403": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:17:54 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:18:03 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:18:05 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:18:13 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:18:39 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:18:40 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:18:44 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807474.5906267,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        10,
+        2,
+        8,
+        26,
+        1,
+        4,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "81954681": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:17:57 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:18:02 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:18:14 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:18:18 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 2 jours",
+          "Sat Jan 25 13:18:19 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:18:29 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:18:51 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:18:58 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:19:02 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807477.1248791,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        12,
+        4,
+        24,
+        7,
+        4,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "47298125": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:18:47 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:18:47 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:18:51 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:18:53 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:19:21 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:19:27 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:19:37 2025"
+        ]
+      ],
+      "client": "A",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807527.2869148,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        4,
+        2,
+        27,
+        6,
+        10,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "72809762": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:00 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:01 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:09 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:24:16 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:24:41 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:24:56 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:24:57 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807840.5155594,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        8,
+        7,
+        25,
+        15,
+        1,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "73001592": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:01 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:02 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:17 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:24:22 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:24:46 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:24:55 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:24:56 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807841.9858623,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        15,
+        5,
+        24,
+        9,
+        1,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "19422622": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:03 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:04 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:16 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:24:19 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:24:43 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:24:51 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:24:52 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807843.5369685,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        12,
+        3,
+        24,
+        8,
+        1,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "22337662": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:05 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:12 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:18 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:24:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:24:48 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:25:00 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:25:05 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807845.7057326,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        6,
+        6,
+        24,
+        12,
+        5,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "63342469": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:43 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:49 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:56 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:24:59 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:25:24 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:25:38 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:25:42 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807883.113313,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        7,
+        3,
+        25,
+        14,
+        4,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "45377178": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:44 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:55 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:25:04 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:25:06 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 8 jours",
+          "Sat Jan 25 13:25:07 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:25:47 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:26:08 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:26:09 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:26:15 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807884.7577415,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        9,
+        2,
+        23,
+        1,
+        6,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "20021370": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:46 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:46 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:47 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:24:49 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:25:17 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:25:30 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:25:37 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807886.3338163,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        1,
+        2,
+        28,
+        13,
+        7,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "49290701": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:48 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:53 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:25:06 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:25:07 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:25:35 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:25:38 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:25:41 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807888.0084984,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        13,
+        1,
+        28,
+        3,
+        3,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "75652210": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:49 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:50 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:55 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:24:57 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:25:23 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:25:25 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:25:28 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807889.5760677,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        5,
+        2,
+        26,
+        2,
+        3,
+        17
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "84742791": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:24:51 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:24:57 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:24:59 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:25:01 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:25:29 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:25:43 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:25:44 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737807891.562377,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        2,
+        2,
+        28,
+        14,
+        1,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "67327862": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:23 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:32 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:36 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:50 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:15 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:46:18 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:46:23 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809123.013161,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        10,
+        4,
+        14,
+        24,
+        3,
+        5,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "29375007": {
+      "status": "Livraison annulée",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:25 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:45 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:46 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:48 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 9 jours",
+          "Sat Jan 25 13:45:49 2025"
+        ],
+        [
+          "Livraison annulée",
+          "Sat Jan 25 13:46:34 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809125.089617,
+      "current_step_index": 3,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        21,
+        1,
+        2,
+        25,
+        2,
+        1,
+        8
+      ],
+      "time_in_step": 1.0052454471588135,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "77582118": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:26 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:27 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:33 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:46 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:11 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:46:16 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:46:20 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809126.8835955,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        6,
+        13,
+        25,
+        4,
+        4,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "67745319": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:28 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:32 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:42 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:45 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 4 jours",
+          "Sat Jan 25 13:45:46 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:46:06 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:29 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:46:35 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:46:40 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809128.4822252,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        10,
+        3,
+        24,
+        6,
+        5,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "41531037": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:30 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:31 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:35 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:01 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:46:11 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:46:19 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809130.1251795,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        4,
+        2,
+        24,
+        10,
+        7,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "50918192": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:35 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:38 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:41 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:50 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:18 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:46:23 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:46:28 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809135.903478,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        3,
+        9,
+        27,
+        5,
+        5,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "54252355": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:37 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:42 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:45 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:54 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 7 jours",
+          "Sat Jan 25 13:45:55 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:46:30 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:54 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:47:00 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:47:05 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809137.8866081,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        3,
+        9,
+        25,
+        6,
+        5,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "13059431": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:39 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:44 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:45:45 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:45:57 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:25 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:46:32 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:46:33 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809139.4822767,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        1,
+        12,
+        27,
+        7,
+        1,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "99968715": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:45:42 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:45:49 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:46:01 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:46:06 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:30 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:46:31 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:46:33 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809142.1051629,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        8,
+        12,
+        5,
+        23,
+        1,
+        2,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "61203576": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:46:23 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:46:26 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:46:27 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:46:32 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:46:59 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:47:12 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:47:13 2025"
+        ]
+      ],
+      "client": "a",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809183.0444617,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        1,
+        5,
+        27,
+        13,
+        1,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "32906916": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:46:25 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:46:42 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:46:47 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:46:49 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:47:14 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:47:17 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:47:18 2025"
+        ]
+      ],
+      "client": "a",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809185.2070878,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        17,
+        5,
+        2,
+        25,
+        3,
+        1,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "40520134": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:46:28 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:46:34 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:46:45 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:46:49 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:47:11 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:47:14 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:47:21 2025"
+        ]
+      ],
+      "client": "a",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809188.0334234,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        11,
+        4,
+        22,
+        3,
+        7,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "55558526": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:51:38 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:51:41 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:51:53 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:51:56 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 3 jours",
+          "Sat Jan 25 13:51:57 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:12 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:36 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:41 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:44 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809498.992366,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        12,
+        3,
+        26,
+        5,
+        3,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "34994607": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:51:46 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:51:50 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:51:53 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:02 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 2 jours",
+          "Sat Jan 25 13:52:03 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:13 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:38 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:41 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:47 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809506.3868327,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        3,
+        9,
+        27,
+        3,
+        6,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "34889973": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:51:48 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:51:49 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:00 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:06 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 6 jours",
+          "Sat Jan 25 13:52:07 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:53:01 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:53:03 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:53:07 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809508.1323247,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        11,
+        6,
+        26,
+        2,
+        4,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "88493472": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:51:51 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:51:51 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:51:58 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:51:59 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:27 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:34 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:45 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809511.2333934,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        7,
+        1,
+        28,
+        7,
+        11,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "31030484": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:51:53 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:51:58 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:04 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:14 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:37 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:41 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:48 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809513.2078452,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        6,
+        10,
+        23,
+        4,
+        7,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "98771865": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:51:57 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:51:58 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:01 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:07 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:35 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:36 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:50 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809517.5925741,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        3,
+        6,
+        28,
+        1,
+        14,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "13963717": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:51:59 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:02 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:03 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:09 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:35 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:44 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:51 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809519.6481888,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        1,
+        6,
+        26,
+        9,
+        7,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "38231664": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:01 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:12 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:16 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:19 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:43 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:50 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:56 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809521.668496,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        4,
+        3,
+        24,
+        7,
+        6,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "35125837": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:03 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:15 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:19 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:23 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:47 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:51 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:52 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809523.5441942,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        12,
+        4,
+        4,
+        24,
+        4,
+        1,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "29209206": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:05 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:11 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:20 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:22 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:48 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:55 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:53:01 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809525.3815072,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        9,
+        2,
+        26,
+        7,
+        6,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "78894798": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:07 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:11 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:12 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:50 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:51 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:52 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809527.15761,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        1,
+        12,
+        26,
+        1,
+        1,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "78005115": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:09 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:18 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:25 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:29 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:55 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:56 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:52:59 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809529.3944986,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        9,
+        7,
+        4,
+        26,
+        1,
+        3,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "63807757": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:13 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:16 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:29 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:30 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:58 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:53:02 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:53:05 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809533.542512,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        13,
+        1,
+        28,
+        4,
+        3,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "36027813": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:15 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:17 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:24 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:31 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:57 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:52:58 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:53:09 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809535.9020836,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        7,
+        7,
+        26,
+        1,
+        11,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "97456630": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:52:18 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:52:28 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:52:33 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:52:34 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:52:56 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:53:00 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:53:06 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809538.1410635,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        5,
+        1,
+        22,
+        4,
+        6,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "29263018": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:58:29 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:58:37 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:58:42 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:58:43 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:59:08 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:59:12 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:59:18 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809909.8665566,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        8,
+        5,
+        1,
+        24,
+        4,
+        6,
+        12
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "48148186": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 13:58:33 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 13:58:36 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 13:58:38 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 13:58:42 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 13:59:10 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 13:59:18 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 13:59:30 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737809913.8698716,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        2,
+        4,
+        27,
+        8,
+        12,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "18178979": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:01:56 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:02:02 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:02:03 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:02:16 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:02:40 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:02:43 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:02:51 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 4,
+      "destination": "4",
+      "creation_timestamp": 1737810116.9291482,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        1,
+        12,
+        24,
+        3,
+        8,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "42124064": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:02:09 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:02:13 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:02:19 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:02:22 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:02:47 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:02:52 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:02:59 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 4,
+      "destination": "'",
+      "creation_timestamp": 1737810129.2480552,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        6,
+        3,
+        25,
+        5,
+        7,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "75973891": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:02:13 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:02:13 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:02:20 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:02:25 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:02:53 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:03:03 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:03:10 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 4,
+      "destination": "ù",
+      "creation_timestamp": 1737810133.0125113,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        7,
+        5,
+        28,
+        10,
+        7,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "70333414": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:04:29 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:04:39 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:04:48 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:04:55 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:05:20 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:05:23 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:05:25 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810269.4511693,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        8,
+        7,
+        25,
+        3,
+        2,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "75195330": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:06:22 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:06:22 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:06:31 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:06:32 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:06:58 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:06:59 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:07:09 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810382.545115,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        9,
+        1,
+        26,
+        1,
+        10,
+        14
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "19604862": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:06:26 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:06:31 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:06:44 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:06:49 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:07:14 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:07:21 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:07:22 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810386.529753,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        13,
+        5,
+        25,
+        7,
+        1,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "34649764": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:43 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:07:43 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:07:44 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:07:51 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:15 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:24 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:37 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810463.063543,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        1,
+        7,
+        24,
+        9,
+        13,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "46255051": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:46 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:07:47 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:07:48 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:07:57 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:25 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:26 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:32 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810466.4064171,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        1,
+        9,
+        28,
+        1,
+        6,
+        13
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "78237550": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:49 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:07:54 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:07:59 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:08:02 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:28 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:33 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:37 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810469.1291318,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        5,
+        3,
+        26,
+        5,
+        4,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "49513366": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:50 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:07:55 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:08:01 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:08:06 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 4 jours",
+          "Sat Jan 25 14:08:07 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:08:27 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:47 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:53 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:55 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810470.9488547,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        6,
+        5,
+        22,
+        6,
+        2,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "16671345": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:52 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:08:05 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:08:07 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:08:08 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:32 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:40 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:47 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810472.940067,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        13,
+        2,
+        1,
+        24,
+        8,
+        7,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "23219009": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:55 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:08:05 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:08:11 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:08:20 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:46 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:49 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:50 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810475.0269313,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        6,
+        9,
+        26,
+        3,
+        1,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "80703426": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:56 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:08:02 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:08:06 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:08:10 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:35 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:41 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:51 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810476.9347627,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        4,
+        4,
+        25,
+        6,
+        10,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "52265399": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:07:59 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:08:00 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:08:11 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:08:15 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:08:42 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:08:43 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:08:49 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810479.6898017,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        11,
+        4,
+        27,
+        1,
+        6,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "11441879": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:13:50 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:13:52 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:13:55 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:04 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:33 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:39 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:42 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810830.213745,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        3,
+        9,
+        28,
+        6,
+        3,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "54553170": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:13:52 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:13:57 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:13:58 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:09 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:36 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:39 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:47 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810832.1140988,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        1,
+        11,
+        26,
+        3,
+        8,
+        2
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "14319331": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:13:53 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:07 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:12 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:13 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:39 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:40 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:49 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810833.9322634,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        14,
+        5,
+        1,
+        25,
+        1,
+        9,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "77438338": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:13:56 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:13:57 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:13:58 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:04 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:33 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:38 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:49 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810836.9386504,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        1,
+        6,
+        28,
+        5,
+        11,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "45084818": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:13:58 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:13:58 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:00 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:03 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:27 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:42 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:49 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810838.7642105,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        2,
+        3,
+        23,
+        15,
+        7,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "88312774": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:00 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:04 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:05 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:07 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:35 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:41 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:46 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810840.3678133,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        1,
+        2,
+        27,
+        6,
+        5,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "86662689": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:02 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:08 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:09 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:20 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:45 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:51 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:56 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810842.118014,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        1,
+        11,
+        24,
+        6,
+        5,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "18996177": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:04 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:04 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:21 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:49 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:55 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:14:57 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810844.4870858,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        17,
+        3,
+        24,
+        6,
+        2,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "93026786": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:06 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:13 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:27 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:28 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:54 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:57 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:03 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810846.2039926,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        8,
+        13,
+        1,
+        26,
+        3,
+        6,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "35098464": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:08 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:10 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:14 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:50 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:55 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:00 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810848.0719573,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        4,
+        10,
+        25,
+        5,
+        5,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "63920845": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:09 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:12 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:18 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:14:50 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:14:59 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:02 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810849.9273932,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        6,
+        6,
+        25,
+        9,
+        3,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "78499314": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:11 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:18 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:19 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:33 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 5 jours",
+          "Sat Jan 25 14:14:34 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:59 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:15:22 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:15:31 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:32 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810851.697379,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        8,
+        1,
+        13,
+        25,
+        9,
+        1,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "78455740": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:14 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:20 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:32 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:33 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:15:01 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:15:07 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:14 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810854.9347427,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        11,
+        1,
+        28,
+        6,
+        7,
+        2
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "10388249": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:16 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:27 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:32 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:15:02 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:15:03 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:07 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810856.929983,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        5,
+        5,
+        25,
+        1,
+        4,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "62970455": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:18 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:23 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:24 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:15:05 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:15:06 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:12 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810858.926273,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        1,
+        12,
+        28,
+        1,
+        6,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "60174295": {
+      "status": "Livraison annulée",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:20 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:27 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:30 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:35 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 3 jours",
+          "Sat Jan 25 14:14:36 2025"
+        ],
+        [
+          "Livraison annulée",
+          "Sat Jan 25 14:14:51 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810860.924873,
+      "current_step_index": 3,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        3,
+        5,
+        25,
+        1,
+        11,
+        6
+      ],
+      "time_in_step": 1.009556531906128,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "29793281": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:23 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:27 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:28 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:39 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:15:04 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:15:10 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:15:16 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810863.9387136,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        1,
+        11,
+        25,
+        6,
+        6,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "16159064": {
+      "status": "Livraison annulée",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:14:25 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:14:29 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:14:38 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:14:50 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 8 jours",
+          "Sat Jan 25 14:14:51 2025"
+        ],
+        [
+          "Livraison annulée",
+          "Sat Jan 25 14:15:31 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810865.9348948,
+      "current_step_index": 3,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        9,
+        12,
+        27,
+        5,
+        1,
+        2
+      ],
+      "time_in_step": 1.009326457977295,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "44264514": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:15:47 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:15:57 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:15:58 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:16:02 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:16:25 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:16:41 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:16:42 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810947.0812654,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        1,
+        4,
+        23,
+        15,
+        1,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "62869361": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:15:47 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:15:49 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:15:54 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:15:55 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:16:22 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:16:28 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:16:38 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810947.1587658,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        5,
+        1,
+        27,
+        6,
+        9,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "44009488": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:15:50 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:15:52 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:15:59 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:16:01 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 1 jour",
+          "Sat Jan 25 14:16:02 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:16:07 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:16:29 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:16:42 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:16:49 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810950.0341387,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        7,
+        2,
+        24,
+        12,
+        7,
+        2
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "78790247": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:15:50 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:15:52 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:15:53 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:15:54 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 1 jour",
+          "Sat Jan 25 14:15:55 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:16:00 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:16:26 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:16:29 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:16:43 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810950.1435208,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        1,
+        1,
+        28,
+        3,
+        13,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "11087996": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:15:50 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:16:01 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:16:07 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:16:13 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:16:38 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:16:40 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:16:48 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810950.2537308,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        12,
+        6,
+        6,
+        24,
+        2,
+        8,
+        2
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "97899019": {
+      "status": "Livraison annulée",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:15:50 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:15:51 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:15:55 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:16:00 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 6 jours",
+          "Sat Jan 25 14:16:01 2025"
+        ],
+        [
+          "Livraison annulée",
+          "Sat Jan 25 14:16:31 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737810950.4231563,
+      "current_step_index": 3,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        4,
+        5,
+        23,
+        7,
+        3,
+        13
+      ],
+      "time_in_step": 1.0077714920043945,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "15509759": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:18:48 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:18:55 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:18:57 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:19:08 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 2 jours",
+          "Sat Jan 25 14:19:09 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:19:19 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:19:44 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:19:48 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:19:53 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811128.891114,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        2,
+        11,
+        27,
+        4,
+        5,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "65238077": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:24:48 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:24:57 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:04 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:09 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:33 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:35 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:25:43 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811488.0513558,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        10,
+        7,
+        5,
+        23,
+        2,
+        8,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "33593443": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:24:49 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:24:53 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:05 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:09 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:37 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:38 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:25:40 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811489.7001307,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        12,
+        4,
+        27,
+        1,
+        2,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "83928326": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:24:52 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:24:54 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:06 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:08 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:34 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:41 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:25:42 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811492.5991576,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        12,
+        2,
+        25,
+        7,
+        1,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "82135174": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:02 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:03 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:10 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:23 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:46 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:53 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:00 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811502.084603,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        7,
+        12,
+        23,
+        7,
+        7,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "75085052": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:03 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:04 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:12 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:13 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 7 jours",
+          "Sat Jan 25 14:25:14 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:49 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:26:11 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:26:23 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:25 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811503.698717,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        8,
+        1,
+        23,
+        12,
+        2,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "91734463": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:05 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:09 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:12 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:18 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:45 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:56 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:01 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811505.6768513,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        3,
+        5,
+        27,
+        11,
+        5,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "21777284": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:07 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:10 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:24 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:27 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:51 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:56 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:01 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811507.509435,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        13,
+        3,
+        24,
+        5,
+        5,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "51180156": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:09 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:16 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:21 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:22 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:48 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:53 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:07 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811509.3252344,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        8,
+        4,
+        1,
+        26,
+        5,
+        14,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "95258789": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:11 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:13 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:22 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:26 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:52 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:25:53 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:05 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811511.2509828,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        8,
+        4,
+        26,
+        1,
+        12,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "57564394": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:13 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:13 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:15 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:48 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:26:01 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:09 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811513.0451462,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        2,
+        8,
+        24,
+        13,
+        8,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "85875809": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:14 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:19 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:29 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:33 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:26:01 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:26:03 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:04 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811514.6928067,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        10,
+        4,
+        28,
+        2,
+        1,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "35373788": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:16 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:20 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:25 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:27 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:50 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:26:02 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:06 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811516.434384,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        5,
+        2,
+        23,
+        12,
+        4,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "22008621": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:18 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:29 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:34 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:39 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:26:03 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:26:07 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:12 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811518.3319645,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        5,
+        5,
+        24,
+        4,
+        5,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "68585137": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:20 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:21 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:28 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:30 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:25:55 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:26:01 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:03 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811520.4285982,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        7,
+        2,
+        25,
+        6,
+        2,
+        14
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "25370683": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:25:22 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:25:38 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:25:39 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:25:40 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:26:06 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:26:12 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:26:17 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811522.1786067,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        16,
+        1,
+        1,
+        26,
+        6,
+        5,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "59404495": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:32:58 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:03 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:04 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:11 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:33:35 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:33:39 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:33:46 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811978.3430266,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        1,
+        7,
+        24,
+        4,
+        7,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "69955477": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:15 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:21 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:24 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:34 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:33:59 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:05 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:10 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811995.9372249,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        3,
+        10,
+        25,
+        6,
+        5,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "55980850": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:17 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:28 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:30 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:34:04 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:11 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:17 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737811997.7578702,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        2,
+        7,
+        27,
+        7,
+        5,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "37449531": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:20 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:30 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:31 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:38 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:34:01 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:06 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:10 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812000.225921,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        1,
+        7,
+        23,
+        5,
+        4,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "25441247": {
+      "status": "Livraison annulée",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:21 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:26 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:35 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:38 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 2 jours",
+          "Sat Jan 25 14:33:39 2025"
+        ],
+        [
+          "Livraison annulée",
+          "Sat Jan 25 14:33:49 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812001.8592186,
+      "current_step_index": 3,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        9,
+        3,
+        24,
+        7,
+        5,
+        3
+      ],
+      "time_in_step": 1.009192705154419,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "79964873": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:21 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:33 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:41 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:48 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:34:11 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:12 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:19 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812001.9543042,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        12,
+        8,
+        7,
+        23,
+        1,
+        6,
+        2
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "60697336": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:22 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:31 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:32 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:40 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:34:06 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:07 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:13 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812002.143206,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        10,
+        1,
+        8,
+        26,
+        1,
+        6,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "22297136": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:22 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:22 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:28 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:32 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:33:59 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:01 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:11 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812002.2352223,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        6,
+        4,
+        27,
+        2,
+        10,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "53561810": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:22 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:26 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:28 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:34:04 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:10 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:16 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812002.3566594,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        2,
+        9,
+        27,
+        6,
+        5,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "87195806": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:33:22 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:33:32 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:33:33 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:33:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:34:06 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:34:12 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:34:17 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812002.480413,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        10,
+        1,
+        4,
+        29,
+        6,
+        4,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "84114090": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:38:53 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:09 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:12 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:19 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:44 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:51 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:39:53 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812333.6283808,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        16,
+        3,
+        7,
+        25,
+        7,
+        2,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "70992852": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:38:55 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:03 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:16 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:18 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:46 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:54 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:39:55 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812335.45407,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        8,
+        13,
+        2,
+        28,
+        8,
+        1,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "39458454": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:38:55 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:00 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:06 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:09 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:34 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:40 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:39:41 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812335.638352,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        6,
+        3,
+        25,
+        6,
+        1,
+        11
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "58552646": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:38:55 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:38:57 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:00 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:17 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:44 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:48 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:39:54 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812335.731506,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        3,
+        17,
+        27,
+        4,
+        6,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "11503322": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:38:55 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:00 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:02 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:03 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 8 jours",
+          "Sat Jan 25 14:39:04 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:44 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:40:06 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:40:20 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:40:22 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812335.8064828,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        2,
+        1,
+        24,
+        14,
+        2,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "60884351": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:38:55 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:07 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:12 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:17 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 5 jours",
+          "Sat Jan 25 14:39:18 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:43 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:40:04 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:40:06 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:40:08 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812335.8194335,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        12,
+        5,
+        5,
+        23,
+        2,
+        2,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "55600859": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:38:56 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:01 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:07 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:16 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:43 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:44 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:39:47 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812336.084133,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        6,
+        9,
+        27,
+        1,
+        3,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "26339111": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:39:06 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:09 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:23 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:26 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:53 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:58 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:39:59 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812346.0891595,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        14,
+        3,
+        27,
+        5,
+        1,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "33942604": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:39:06 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:10 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:11 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:15 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:42 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:53 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:40:00 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812346.2120297,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        1,
+        4,
+        27,
+        11,
+        7,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "32404578": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:39:06 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:09 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:13 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:17 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:41 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:39:45 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:39:51 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812346.3078482,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        4,
+        4,
+        24,
+        4,
+        6,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "87511481": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:39:06 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:39:11 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:39:24 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:39:27 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:39:50 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:40:00 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:40:01 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812346.4903638,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        13,
+        3,
+        23,
+        10,
+        1,
+        2
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "33852024": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:49:23 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:49:24 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:49:29 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:49:43 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:50:10 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:50:12 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:50:18 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737812963.9308321,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        5,
+        14,
+        26,
+        2,
+        6,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "46516458": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:05 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:07 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:08 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:23 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:51:51 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:51:53 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:51:54 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813065.8800404,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        1,
+        15,
+        27,
+        2,
+        1,
+        11
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "62204480": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:09 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:15 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:22 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:25 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:51:51 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:51:52 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:51:58 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813069.2939754,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        7,
+        3,
+        25,
+        1,
+        6,
+        11
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "92962978": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:11 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:14 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:16 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:51:48 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:51:50 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:04 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813071.9688153,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        3,
+        2,
+        8,
+        23,
+        2,
+        14,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "49542630": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:15 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:21 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:27 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:43 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:07 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:08 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:14 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813075.6302083,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        6,
+        15,
+        24,
+        1,
+        6,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "93585519": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:17 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:27 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:30 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:04 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:07 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:09 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813077.1937995,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        3,
+        6,
+        27,
+        3,
+        2,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "25356196": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:18 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:23 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:35 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:36 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:02 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:09 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:13 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813078.8772516,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        11,
+        1,
+        26,
+        7,
+        4,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "89320964": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:22 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:26 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:31 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:41 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:06 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:12 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:18 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813082.005975,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        5,
+        9,
+        25,
+        6,
+        6,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "50718676": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:23 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:34 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:39 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:46 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:13 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:15 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:17 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813083.6286726,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        5,
+        7,
+        27,
+        2,
+        2,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "70178547": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:45 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:50 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:53 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:55 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:21 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:25 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:31 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813105.67647,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        3,
+        2,
+        26,
+        4,
+        6,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "55739597": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:47 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:53 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:59 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:01 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 7 jours",
+          "Sat Jan 25 14:52:02 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:53:01 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:53:13 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:53:17 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813107.9395285,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        6,
+        2,
+        26,
+        11,
+        4,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "63964792": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:49 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:54 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:51:58 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:51:59 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:24 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:29 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:32 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813109.887673,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        5,
+        4,
+        1,
+        25,
+        5,
+        3,
+        14
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "66607255": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:51 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:53 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:52:03 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:07 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:32 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:39 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:45 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813111.7019186,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        10,
+        4,
+        25,
+        7,
+        6,
+        2
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "38463779": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:53 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:52:04 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:52:11 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:16 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:42 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:43 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:47 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813113.9408534,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        7,
+        5,
+        26,
+        1,
+        4,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "86310741": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:55 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:51:57 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:52:08 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:11 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 5 jours",
+          "Sat Jan 25 14:52:12 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:37 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:53:03 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:53:08 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:53:16 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813115.6231854,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        11,
+        3,
+        28,
+        5,
+        7,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "17714132": {
+      "status": "Livraison annulée",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:57 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:52:09 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:52:16 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:20 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 4 jours",
+          "Sat Jan 25 14:52:21 2025"
+        ],
+        [
+          "Livraison annulée",
+          "Sat Jan 25 14:52:41 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813117.6730428,
+      "current_step_index": 3,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        12,
+        7,
+        4,
+        28,
+        6,
+        1,
+        3
+      ],
+      "time_in_step": 1.010164737701416,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "11936694": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 14:51:59 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 14:52:05 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 14:52:06 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 14:52:12 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 14:52:34 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 14:52:40 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 14:52:46 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813119.633017,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        1,
+        6,
+        22,
+        6,
+        6,
+        10
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "20276626": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:03:07 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:03:17 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:03:24 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:03:28 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:03:54 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:03:58 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:03:59 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813787.1190138,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        11,
+        7,
+        4,
+        25,
+        4,
+        1,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "63119255": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:03:09 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:03:09 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:03:13 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:03:19 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:03:44 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:03:56 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:03:57 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737813789.4898198,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        4,
+        6,
+        24,
+        12,
+        1,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "19283473": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:07:12 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:07:18 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:07:19 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:07:24 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:07:50 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:08:02 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:08:06 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814032.488183,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        1,
+        5,
+        25,
+        12,
+        4,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "78375576": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:07:16 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:07:25 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:07:29 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:07:32 2025"
+        ],
+        [
+          "Incident signalé : Retard estimé : 2 jours",
+          "Sat Jan 25 15:07:33 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:07:43 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:08:06 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:08:09 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:08:16 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814036.99951,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        9,
+        4,
+        3,
+        24,
+        3,
+        7,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": true,
+      "incident_checked": true,
+      "archived": true
+    },
+    "17260544": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:07:19 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:07:33 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:07:37 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:07:38 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:08:05 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:08:15 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:08:16 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814039.3239465,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        15,
+        4,
+        1,
+        26,
+        10,
+        1,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "31327672": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:13:36 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:13:42 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:13:47 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:13:51 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:14:17 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:14:27 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:14:35 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814416.4204948,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        5,
+        4,
+        26,
+        10,
+        7,
+        1
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "77256700": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:13:38 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:13:51 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:14:00 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:14:02 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:14:25 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:14:29 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:14:33 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814418.6909049,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        13,
+        9,
+        2,
+        23,
+        4,
+        4,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "12674582": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:13:38 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:13:40 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:13:46 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:13:59 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:14:24 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:14:25 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:14:30 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814418.768973,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        6,
+        13,
+        25,
+        1,
+        5,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "31083139": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:13:38 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:13:39 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:13:40 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:13:46 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:14:15 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:14:18 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:14:30 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814418.9863317,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        1,
+        6,
+        29,
+        3,
+        12,
+        9
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "33047236": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:13:39 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:13:39 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:13:50 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:13:53 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:14:17 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:14:23 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:14:29 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814419.0472887,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        11,
+        3,
+        24,
+        6,
+        6,
+        8
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "50893881": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:13:39 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:13:42 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:13:47 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:13:53 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:14:17 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:14:20 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:14:29 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814419.1720357,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        5,
+        6,
+        24,
+        3,
+        9,
+        5
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "16309897": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:16:36 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:16:43 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:16:44 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:16:45 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:17:13 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:17:23 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:17:29 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814596.6361284,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        7,
+        1,
+        1,
+        28,
+        10,
+        6,
+        7
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "91923697": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:16:38 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:16:40 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:16:43 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:16:58 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:17:24 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:17:32 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:17:34 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814598.6147327,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        2,
+        3,
+        15,
+        26,
+        8,
+        1,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "53457717": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:17:08 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:17:14 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:17:15 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:17:21 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:17:49 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:17:51 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:18:00 2025"
+        ]
+      ],
+      "client": "aa",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737814628.9312227,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        1,
+        6,
+        27,
+        2,
+        9,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "40162925": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:26:10 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:26:10 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:26:13 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:26:20 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:26:44 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:27:06 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:27:07 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737815170.3961654,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        1,
+        3,
+        7,
+        24,
+        21,
+        1,
+        4
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "30919093": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 15:30:11 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 15:30:25 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 15:30:27 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 15:30:32 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 15:31:00 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 15:31:01 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 15:31:08 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737815411.319652,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        14,
+        2,
+        5,
+        28,
+        1,
+        7,
+        3
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": true
+    },
+    "18572787": {
+      "status": "Livré",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 19:46:09 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 19:46:18 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 19:46:24 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 19:46:25 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 19:46:53 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 19:46:56 2025"
+        ],
+        [
+          "Livré",
+          "Sat Jan 25 19:47:00 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737830769.1631007,
+      "current_step_index": 6,
+      "finished": true,
+      "on_hold": false,
+      "step_durations": [
+        10,
+        6,
+        1,
+        28,
+        3,
+        4,
+        6
+      ],
+      "time_in_step": 0,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": false
+    },
+    "44156209": {
+      "status": "En cours de livraison",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 19:46:17 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 19:46:23 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 19:46:29 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 19:46:39 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 19:47:04 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 19:47:06 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737830777.7955277,
+      "current_step_index": 5,
+      "finished": false,
+      "on_hold": false,
+      "step_durations": [
+        6,
+        6,
+        10,
+        25,
+        2,
+        7,
+        4
+      ],
+      "time_in_step": 6.07304310798645,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": false
+    },
+    "38563674": {
+      "status": "En cours de livraison",
+      "history": [
+        [
+          "Commande confirmée",
+          "Sat Jan 25 19:46:21 2025"
+        ],
+        [
+          "Colis préparé",
+          "Sat Jan 25 19:46:25 2025"
+        ],
+        [
+          "Pris en charge par le transporteur",
+          "Sat Jan 25 19:46:37 2025"
+        ],
+        [
+          "En transit",
+          "Sat Jan 25 19:46:39 2025"
+        ],
+        [
+          "Arrivé au centre de distribution",
+          "Sat Jan 25 19:47:06 2025"
+        ],
+        [
+          "En cours de livraison",
+          "Sat Jan 25 19:47:11 2025"
+        ]
+      ],
+      "client": "l",
+      "quantity": 3,
+      "destination": "F",
+      "creation_timestamp": 1737830781.491566,
+      "current_step_index": 5,
+      "finished": false,
+      "on_hold": false,
+      "step_durations": [
+        4,
+        12,
+        2,
+        27,
+        5,
+        6,
+        4
+      ],
+      "time_in_step": 1.01283860206604,
+      "incident_decision": false,
+      "incident_checked": false,
+      "archived": false
+    }
+  }
+}
